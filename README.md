@@ -1,6 +1,6 @@
-### Olá 👋
-### Me chamo Évelyn Nogueira S.
- ### Sou estudante do alura,em que nele tem vários cursos online de tecnologia.
+### Olá,meu nome é @evilynsiqueira
+### Meu email de contato é evilyn.siqueira@escola.pr.gov.br
+### Eu estou interessada em aprender a programar novas linguagens.
 
 Here are some ideas to get you started:
 
